@@ -136,6 +136,15 @@ const collectionData = [
     description: "A heavy, intact stone axe head of an entirely unknown provenance and date. This item was found completely uncatalogued amongst the remaining domestic effects, exhibiting extremely clear signs of manual rock-grinding and historical utility edge-wear.",
     images: ["unknown_axehead_1.jpg", "unknown_axehead_2.jpg", "unknown_axehead_3.jpg", "unknown_axehead_4.jpg"],
     sourceDocument: "Esma & Jim Rigby's Archive"
+  },
+  {
+    id: 12,
+    title: "Possible Axe Head",
+    locationName: "Unknown Origin (Domestic)",
+    date: "Acquisition Date Unknown",
+    description: "An uncatalogued stone piece featuring distinct morphological similarities to regional edge-ground axe heads. Lacking definitive provenance or clear wear-marks along the cutting ridge, it remains undocumented but fundamentally preserved within the larger unclassified collection.",
+    images: ["unknown_possible_axehead_1.jpg", "unknown_possible_axehead_2.jpg"],
+    sourceDocument: "Esma & Jim Rigby's Archive"
   }
 ];
 
