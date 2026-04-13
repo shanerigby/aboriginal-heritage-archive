@@ -127,6 +127,15 @@ const collectionData = [
     description: "These artifacts are of currently unverified origin, though they were definitively gathered from the limited cross-section of geographic locations otherwise documented within this archive.",
     images: ["unknown_artefacts_1.jpg"],
     sourceDocument: "Esma & Jim Rigby's Archive"
+  },
+  {
+    id: 11,
+    title: "Unknown Axe Head",
+    locationName: "Unknown Origin (Domestic)",
+    date: "Acquisition Date Unknown",
+    description: "A heavy, intact stone axe head of an entirely unknown provenance and date. This item was found completely uncatalogued amongst the remaining domestic effects, exhibiting extremely clear signs of manual rock-grinding and historical utility edge-wear.",
+    images: ["unknown_axehead_1.jpg", "unknown_axehead_2.jpg", "unknown_axehead_3.jpg", "unknown_axehead_4.jpg"],
+    sourceDocument: "Esma & Jim Rigby's Archive"
   }
 ];
 
