@@ -155,6 +155,15 @@ const collectionData = [
     description: "Recovered from a historic, decommissioned rubbish tip servicing Glen Innes (NSW) that was closed over a century ago. This Aboriginal breastplate (historically referred to as a 'king plate') is definitively engraved with the text 'BILLE KING OF LONGTON'. The Australian Museum has been contacted regarding provenance verification and potential institutional repatriation.",
     images: ["longton_breastplate_1.jpeg"],
     sourceDocument: "Esma & Jim Rigby's Archive"
+  },
+  {
+    id: 14,
+    title: "Second Unknown Axe Head",
+    locationName: "Unknown Origin (Domestic)",
+    date: "Acquisition Date Unknown",
+    description: "A second heavy stone axe head retrieved from domestic storage without accompanying provenance tags or documentation. It exhibits the hallmark morphology and ground-edge profile characteristic of Aboriginal utility tools but lacks specific geographic routing back to a known collection site.",
+    images: ["unknown_second_axehead_1.jpg", "unknown_second_axehead_2.jpg", "unknown_second_axehead_3.jpg"],
+    sourceDocument: "Esma & Jim Rigby's Archive"
   }
 ];
 
