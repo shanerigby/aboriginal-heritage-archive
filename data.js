@@ -152,7 +152,7 @@ const collectionData = [
     locationName: "Glen Innes, NSW",
     coordinates: [-29.70372, 151.76908],
     date: "Circa 1980",
-    description: "Recovered from a historic, decommissioned rubbish tip servicing Glen Innes (NSW) that was closed over a century ago. This Aboriginal breastplate (historically referred to as a 'king plate') is definitively engraved with the text 'BILLE KING OF LONGTON'. The Australian Museum has been contacted regarding provenance verification and potential institutional repatriation.",
+    description: "Recovered from a historic, decommissioned rubbish tip servicing Glen Innes (NSW) that was closed over a century ago. This Aboriginal breastplate (historically referred to as a 'king plate') is definitively engraved with the text 'BILLE KING OF LONGTON'. Physical analysis of the plate reveals elongated suspension holes along the top edge, indicating substantial, long-term wear from being suspended around the neck prior to its disposal. The Australian Museum has been contacted regarding provenance verification and potential institutional repatriation.",
     images: ["longton_breastplate_1.jpeg"],
     sourceDocument: "Esma & Jim Rigby's Archive",
     relatedLinks: [
