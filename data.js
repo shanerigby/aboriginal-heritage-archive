@@ -145,6 +145,15 @@ const collectionData = [
     description: "An uncatalogued stone piece featuring distinct morphological similarities to regional edge-ground axe heads. Lacking definitive provenance or clear wear-marks along the cutting ridge, it remains undocumented but fundamentally preserved within the larger unclassified collection.",
     images: ["unknown_possible_axehead_1.jpg", "unknown_possible_axehead_2.jpg"],
     sourceDocument: "Esma & Jim Rigby's Archive"
+  },
+  {
+    id: 13,
+    title: "Aboriginal Breastplate ('King Plate')",
+    locationName: "Under Anthropological Review",
+    date: "Acquisition Date Unknown",
+    description: "An Aboriginal breastplate (historically referred to as a 'king plate') engraved with the text 'BILLE KING OF LONGTON' (or potentially 'BILLF'). The Australian Museum has been contacted regarding provenance verification and potential institutional repatriation.",
+    images: ["longton_breastplate_1.jpeg"],
+    sourceDocument: "Esma & Jim Rigby's Archive"
   }
 ];
 
